@@ -1,0 +1,13 @@
+@import "./common/variables";
+@import "./common/reset";
+@import "./common/theme";
+@import "./common/transitions";
+
+.container {
+  margin: 2rem auto 0;
+  max-width: 1000px;
+
+  &.with-nav {
+    margin-top: 90px;
+  }
+}

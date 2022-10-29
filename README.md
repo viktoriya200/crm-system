@@ -6,6 +6,8 @@ Crm system for any business where you can look at all your requests, add/delete/
 
 Also, there is page with popular questions
 
+[View deployment](https://viktoriya200.github.io/crm-system/)
+
 **For testing system use**
 
 `Login: test@mail.ru`
